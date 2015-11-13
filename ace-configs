@@ -1,0 +1,14 @@
+configs
+
+	filer profile
+
+		method - abi or xml bp
+		paper docs or no
+		SE, AE
+		SE + AE together
+		AE certified for SE
+
+	SE+AE config
+
+		default values
+		make read only or allow edits

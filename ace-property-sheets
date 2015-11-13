@@ -1,0 +1,9 @@
+property sheets
+
+data groups
+	so90
+	so40?
+	so30?
+
+config for so90 messages
+	similar to r5

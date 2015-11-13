@@ -8,7 +8,14 @@ configs
 		SE + AE together
 		AE certified for SE
 
-	SE+AE config
+	SE-AE config
 
 		default values
 		make read only or allow edits
+
+	SE-AE wrapper config
+
+		a/z record
+			contains amber road filing information
+		b/y record
+			contains filer information

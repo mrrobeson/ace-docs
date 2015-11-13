@@ -1,0 +1,28 @@
+workflow
+
+1) run basic validations on shipment
+	- check current validations
+	- find gaps on shipment data
+	- admissibility checks
+
+2) creates pce
+	- fills greq forms
+	- validates for additional and ad-hoc data
+	- pce was created with config data
+	- configured data should show on ui
+	- user will need to manually enter extra data
+
+3) generates bp
+	- files to broker automatically
+	- user may review
+
+4) customs entry received
+	- sys creates customs entry
+	- status notifications can be received against it
+
+5) abi msg received
+	- system checks for existing customs entry
+	- shell created if no customs entry exists
+	- updates existing customs entry if exists
+	- customs entry goes on hold or passed based on codes
+	- enhance with filing_status just like zone admission?
